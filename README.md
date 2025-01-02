@@ -39,7 +39,6 @@ The data files are available in this repository.
 
 3. **Merging of Data**:
    - Combined inpatient and outpatient datasets into a single table called `AllData` while preserving the original datasets for validation.
-   - Mapped the specialties to their respective categories using the `Mapping_Speciality` file.
 
 ---
 
